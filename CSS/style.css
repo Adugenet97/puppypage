@@ -1,0 +1,44 @@
+* {
+  margin-right: 0;
+  padding: 0;
+}
+
+body {
+  font-size: 16;
+  /* width: 1040px; */
+}
+
+.blueBG {
+  background-color: #0c4f70;
+  padding-block: 30px;
+}
+
+.blueBG p {
+  text-align: center;
+  color: #fff;
+  font-size: 28px;
+}
+
+.banner img {
+  width: 100%;
+}
+
+.main-wrapper {
+  border: 1px solid red;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.puppy-1-2 {
+  display: flex;
+  gap: 24px;
+}
+
+.post-cards {
+  width: 100vw;
+  border: 1px solid rebeccapurple;
+}
+
+.post-cards img {
+  width: 100%;
+}
